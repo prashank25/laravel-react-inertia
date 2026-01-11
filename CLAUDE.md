@@ -41,7 +41,7 @@ This is a Laravel 12 + React 19 application using Inertia.js for server-side ren
 - **Frontend**: React 19, TypeScript, Tailwind CSS 4
 - **Authentication**: WorkOS via `laravel/workos`
 - **Build**: Vite with SSR support
-- **UI Components**: shadcn/ui (Radix primitives)
+- **UI Components**: shadcn/ui-style components (Base UI primitives)
 
 ### Key Directories
 - `app/Http/Controllers/` - Laravel controllers
